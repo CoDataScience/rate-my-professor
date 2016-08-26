@@ -87,3 +87,8 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# Don't include the data since its on kaggle
+train.csv
+test.csv
+predictions.csv
