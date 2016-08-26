@@ -92,3 +92,4 @@ ENV/
 train.csv
 test.csv
 predictions.csv
+model.pkl
