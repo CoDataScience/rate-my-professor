@@ -93,3 +93,4 @@ train.csv
 test.csv
 predictions.csv
 model.pkl
+output
